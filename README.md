@@ -6,8 +6,8 @@ Our application colors the time blocks to help the user determine past, present,
 
 ## Links
 
-* Deployed App: 
-* Github Repo:
+* Deployed App: https://8ilalo.github.io/day_planner_homework/
+* Github Repo: https://github.com/8ilalo/day_planner_homework
 
 ## Screenshot
 
