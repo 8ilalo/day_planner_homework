@@ -11,4 +11,4 @@ Our application colors the time blocks to help the user determine past, present,
 
 ## Screenshot
 
-![screenshot](images/Capture.jpg)
+![screenshot](images/CaptureJPG)
